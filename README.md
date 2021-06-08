@@ -1,7 +1,7 @@
 # takeout_app
 Food take-out app for my DIC capstone project
 
-## テーブル定義書**
+## テーブル定義書
 https://docs.google.com/spreadsheets/d/1JFnqdmyRbbGoBBPLC2AUDwuU2qsv1xgo-hSTx6kbX3k/edit?usp=sharing
 
 ## バージョン
